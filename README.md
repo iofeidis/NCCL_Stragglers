@@ -77,7 +77,7 @@ mkdir logs
    - Modify `run_experiment.sh` based on your specific experiment arguments.
    - Example command to run an experiment with the result file name as argument:
      ```sh
-     ./run_experiment.sh 5ms_delay.txt
+     ./run_experiment.sh 5ms_delay
      ```
 
 2. **Plotting Results**
